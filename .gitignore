@@ -1,0 +1,5 @@
+# Terraform init dependencies
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
